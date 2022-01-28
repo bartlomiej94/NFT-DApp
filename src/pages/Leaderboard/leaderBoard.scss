@@ -1,0 +1,76 @@
+.ant-layout-content {
+   background: #ffffff !important;
+}
+
+.leaderboardContainer {
+   max-width: 1400px;
+   margin: 0 auto;
+   
+   .ant-space-item {
+      display: none !important;
+   }
+   .ant-pro-table-list-toolbar {
+      display: none !important;
+   }
+   .ant-card-body {
+      padding: 0;
+   }
+
+   .ant-image-mask-info {
+      content: 'Click' !important;
+      // display: none !important;
+   }
+   .ant-table-wrapper {
+      background-color: white;
+   }
+   .twitterPicture {
+      width: 75px;
+   }
+
+   .rankPicture {
+      width: 60px;
+
+      &.rank-2 {
+         width: 50px;
+      }
+
+      &.rank-3 {
+         width: 40px;
+      }
+   }
+
+   .snipper {
+      width: 100%;
+      display: flex;
+      justify-content: flex-start;
+   }
+
+   .question-mark-wrapper {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+   }
+
+   .ant-table-cell {
+      width: 0 !important;
+   }
+
+   .col-center {
+      text-align: center;
+   }
+
+   .col-rank {
+      font-size: 20px;
+      font-weight: bold;
+   }
+
+   th {
+      font-size: 14px !important;
+   }
+   
+   @media only screen and (max-width: 800px) {
+      .twitterPicture {
+         width: 50px;
+      }
+   }
+}

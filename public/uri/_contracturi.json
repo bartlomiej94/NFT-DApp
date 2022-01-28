@@ -1,0 +1,7 @@
+{
+    "name": "Combat Curve",
+    "description": "Inspired by Unisocks, Combat Curve is a market for NFT physicals. Each showcased influencer has a unique token that entitles you to 1 real, limited edition tee-shirt and NFT.",
+    "external_link": "https://combatcurve.com",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0x255DdCeaA5043F964a577774bE01Be98AD39B4c4"
+}

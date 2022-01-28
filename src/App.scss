@@ -1,0 +1,12 @@
+.ant-input {
+    transition: none !important;
+}
+
+.fixedInputAddon {
+    width: 100%;
+
+    .ant-input-group-addon {
+        transition: none !important;
+        width: 75px !important;
+    }
+}

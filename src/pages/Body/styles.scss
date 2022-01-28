@@ -1,0 +1,19 @@
+.cc-wallet {
+    width: 100%;
+
+    * {
+        color: #ffffff !important;
+    }
+    
+    .ant-divider {
+        border-top-color: rgba(255, 255, 255, 0.4) !important;
+    }
+
+    .ant-list-item {
+        border-bottom-color: rgba(255, 255, 255, 0.4) !important;
+    }
+
+    .ant-list-item-meta {
+        align-items: center !important;
+    }
+}
